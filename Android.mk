@@ -33,7 +33,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     androidx.cardview_cardview \
     androidx.preference_preference \
     androidx.recyclerview_recyclerview \
-    android-support-v7-preference \
+    androidx.preference \
     com.google.android.material_material \
     setupcompat \
     setupdesign \
